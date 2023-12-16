@@ -1,0 +1,23 @@
+# Ignore NZP game files
+data/
+gfx/
+maps/
+menu/
+models/
+particles/
+screenshots/
+scripts/
+shaders/
+sounds/
+textures/
+tracks/
+condump.txt
+csprogs.dat
+csprogs.lno
+default.cfg
+fte.cfg
+qconsole.log
+qconsole.*.log
+qwprogs.dat
+ssqccore.txt
+version.txt
